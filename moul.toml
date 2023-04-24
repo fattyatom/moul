@@ -1,0 +1,23 @@
+# docs: https://github.com/moulco/moul/tree/master/docs#example-moultoml
+base = "/"
+ga_measurement_id = ""
+
+[style]
+theme = "system-preference"
+cover = "center"
+content = "left"
+
+[profile]
+name = "Casey Chan"
+bio = "somewhere in anywhere"
+
+[social]
+twitter = ""
+github = "fattyatom"
+instagram = "ftm.cc_"
+facebook = ""
+youtube = ""
+
+[content]
+title = "Wow this title is just a placeholder! @shit"
+text = "Some random content that i will never know how to type in"
